@@ -6,5 +6,5 @@ const first = args[0];
 if (first === undefined) {
   console.log("No argument");
 } else {
-  console.log("Arguments found");
+  console.log(first);
 }
